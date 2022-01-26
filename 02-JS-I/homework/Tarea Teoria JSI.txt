@@ -1,0 +1,24 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años.
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables
+ * Strings
+ * Funciones (argumentos, `return`)
+ * Declaraciones `if`
+ * Valores booleanos (`true`, `false`)
+
+
+Variables: es una forma de almacenar información (datos). Para eso se utiliza la palabra reservada "var" seguida del nombre de la variable.
+           Luego se coloca un signo de igualdad "=" (operador de asignación) y por último se coloca el valor de la variable (dato que será almacenado).
+
+Strings: es un tipo de dato del lenguaje de programación. Consta de una cadena de caracteres (1 o más) y deben colocarse entre comillas.
+
+Funciones: son un bloque de código que puede ser reutilizado (se puede ejecutar varias veces solamente llamando a la funcion por su nombre entre parentesis)
+           las funciones pueden o no aceptar argumentos que son parámetros que la función puede utilizar dentro de su código.
+           si queremos que la función devuelva un resultado dado se utiliza la palabra reservada "return".
+           la sintaxis es palabra reservada "function" seguida del nombre de la función, luego parentesis () entre ellos se colocan los argumentos
+           si no se van a usar argumentos los parentesis quedan vacíos, por ultimo el bloque de código a ejecutar va entre llaves {}
+
+Declaraciones if: es una forma de evaluar una condición. Si esta se cumple se ejecuta un bloque de código y si no se ejecuta otro bloque de código.
+
+Valores booleanos: es un tipo de dato que significa un valor lógico que puede ser true (verdadero) o false (falso). Tanto true como false son palabras reservadas.
